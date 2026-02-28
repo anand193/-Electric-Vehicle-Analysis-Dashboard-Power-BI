@@ -96,7 +96,7 @@ Data was cleaned and transformed using **Power Query**, and measures were create
 
 ## 📷 Dashboard Preview
 
-[![Electric Vehicle Analysis Dashboard](https://github.com/anand193/-Electric-Vehicle-Analysis-Dashboard-Power-BI/blob/main/dashboard%20picture%20preview.png)
+![Electric Vehicle Analysis Dashboard](https://github.com/anand193/-Electric-Vehicle-Analysis-Dashboard-Power-BI/blob/main/dashboard%20picture%20preview.png)
 
 ---
 
